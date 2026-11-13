@@ -1,8 +1,5 @@
 # High-Performance LBM D2Q9 Fluid Simulation in .NET
 
-[![.NET](https://shields.io)](https://microsoft.com)
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![BenchmarkDotNet](https://shields.io)](https://benchmarkdotnet.org)
 
 ## Overview
 This repository contains a high-performance Computational Fluid Dynamics (CFD) solver based on the **Lattice Boltzmann Method (LBM D2Q9)**, implemented in modern **C# / .NET**. 
